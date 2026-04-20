@@ -1,0 +1,10 @@
+# GitHub Pages configuration
+# No Jekyll processing needed — this is a plain static site
+
+plugins: []
+
+# Exclude dev files from the Pages build
+exclude:
+  - README.md
+  - .gitignore
+  - screenshots/

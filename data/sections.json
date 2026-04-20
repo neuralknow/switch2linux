@@ -1,0 +1,130 @@
+[
+  {
+    "id": "why-switch",
+    "title": "Why Switch to Linux?",
+    "icon": "🐧",
+    "file": "content/why-switch.md",
+    "isNew": false,
+    "newLabel": "",
+    "checklistItems": [
+      "I understand what Linux is",
+      "I know the main benefits of switching",
+      "I've watched at least one intro video"
+    ]
+  },
+  {
+    "id": "choosing-distro",
+    "title": "Choosing a Distro",
+    "icon": "🗺️",
+    "file": "content/choosing-distro.md",
+    "isNew": true,
+    "newLabel": "New comparison added: Ubuntu 24.04 vs Pop!_OS 22.04",
+    "checklistItems": [
+      "I've read about Ubuntu",
+      "I've read about Pop!_OS",
+      "I've decided which distro to try"
+    ]
+  },
+  {
+    "id": "installation",
+    "title": "Installation Guide",
+    "icon": "💿",
+    "file": "content/installation.md",
+    "isNew": true,
+    "newLabel": "Updated for 2025 — new screenshots added",
+    "checklistItems": [
+      "I've created a bootable USB",
+      "I've backed up my important files",
+      "I've booted into the live environment",
+      "I've completed the installation"
+    ]
+  },
+  {
+    "id": "windows-vs-linux",
+    "title": "Windows vs Linux",
+    "icon": "⚖️",
+    "file": "content/windows-vs-linux.md",
+    "isNew": false,
+    "newLabel": "",
+    "checklistItems": [
+      "I understand the file system differences",
+      "I know the software equivalents I need",
+      "I understand how updates work on Linux"
+    ]
+  },
+  {
+    "id": "common-tasks",
+    "title": "Common Tasks",
+    "icon": "📋",
+    "file": "content/common-tasks.md",
+    "isNew": false,
+    "newLabel": "",
+    "checklistItems": [
+      "I can browse the web",
+      "I can manage files",
+      "I can install and remove apps",
+      "I can connect to Wi-Fi",
+      "I can adjust system settings"
+    ]
+  },
+  {
+    "id": "gaming",
+    "title": "Gaming on Linux",
+    "icon": "🎮",
+    "file": "content/gaming.md",
+    "isNew": true,
+    "newLabel": "New section — Steam Deck & Proton guide added",
+    "checklistItems": [
+      "I've installed Steam on Linux",
+      "I've checked my games on ProtonDB",
+      "I've enabled Proton in Steam settings",
+      "I've tried at least one game"
+    ]
+  },
+  {
+    "id": "recommended-apps",
+    "title": "Recommended Apps",
+    "icon": "🛍️",
+    "file": "content/recommended-apps.md",
+    "isNew": true,
+    "newLabel": "New section — top apps for switchers",
+    "checklistItems": [
+      "I've installed my browser of choice",
+      "I've set up my email client",
+      "I've found alternatives for my key apps"
+    ]
+  },
+  {
+    "id": "troubleshooting",
+    "title": "Troubleshooting",
+    "icon": "🔧",
+    "file": "content/troubleshooting.md",
+    "isNew": false,
+    "newLabel": "",
+    "checklistItems": [
+      "I know how to search for help online",
+      "I've joined at least one Linux community"
+    ]
+  },
+  {
+    "id": "glossary",
+    "title": "Glossary",
+    "icon": "📖",
+    "file": "content/glossary.md",
+    "isNew": false,
+    "newLabel": "",
+    "checklistItems": []
+  },
+  {
+    "id": "community",
+    "title": "Community & Help",
+    "icon": "🤝",
+    "file": "content/community.md",
+    "isNew": false,
+    "newLabel": "",
+    "checklistItems": [
+      "I've bookmarked at least one Linux community",
+      "I've introduced myself in a forum or subreddit"
+    ]
+  }
+]
